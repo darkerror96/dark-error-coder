@@ -6,7 +6,7 @@
 
 - 🏫 I am a full time Software Developer pursuing a Master’s degree in CS from the Stevens Institute of Technology <a href="https://www.stevens.edu"><img src="http://www.stevens.edu/news/newspoints/brand-logos/Stevens-Apparel-Color-R.png" width="20" height="20"></a>
 - ⚡️ My expertise primarily revolves around Java, Python, Microservices, APIs.
-- 📭 Connect with me on <a href="https://www.linkedin.com/in/patel-rut/"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="20" height="20"></a>
+- 📭 Connect with me on : <a href="https://www.linkedin.com/in/patel-rut/"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="20" height="20"></a>
 - 🥷 I also like to practice once a while on : <a href="https://www.hackerrank.com/rutpatel"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="20" height="20"></a>
 
 #### 👨🏻‍💻 Mostly Used Languages, Frameworks :
