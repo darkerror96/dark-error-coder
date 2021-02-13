@@ -43,7 +43,7 @@
 
 ---
 
-#### 📂 Repo Stats : 
+#### 📂 Repo Stats (#LOC) : 
 
 - <a href="https://github.com/darkerror96/pro-ems_rest_angular">
     <img src="https://img.shields.io/tokei/lines/github/darkerror96/pro-ems_rest_angular?color=brightgreen&label=pro-ems_rest_angular&logo=github&logoColor=informational&style=for-the-badge" alt="GitHub badge" />
