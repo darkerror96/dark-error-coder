@@ -7,8 +7,14 @@
     <img src="http://www.stevens.edu/news/newspoints/brand-logos/Stevens-Apparel-Color-R.png" width="20" height="20">
   </a>
 - ⚡️ My expertise primarily revolves around Java, Python, Microservices, Rest-APIs and much more.
-- 📭 Let's get Linked In : <a href="https://www.linkedin.com/in/patel-rut/"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="20" height="20"></a>
-- 🥷 I also like to practice once a while on : <a href="https://www.hackerrank.com/rutpatel"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="20" height="20"></a>
+- 📭 Let's get Linked In : 
+  <a href="https://www.linkedin.com/in/patel-rut/">
+    <img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="20" height="20">
+  </a>
+- 🥷 I also like to practice once a while on : 
+  <a href="https://www.hackerrank.com/rutpatel">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="20" height="20">
+  </a>
 
 ---
 
@@ -39,9 +45,12 @@
 
 #### Repo Stats : 
 
-<a href="https://github.com/darkerror96?tab=followers">
-  <img src="https://img.shields.io/tokei/lines/github/darkerror96/pro-ems_rest_angular?style=for-the-badge" alt="GitHub badge" />
-</a>
+- <a href="https://github.com/darkerror96?tab=followers">
+    <img src="https://img.shields.io/tokei/lines/github/darkerror96/pro-ems_rest_angular??label=pro-ems_rest_angular&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+- <a href="https://github.com/darkerror96?tab=followers">
+    <img src="https://img.shields.io/tokei/lines/github/darkerror96/pro-ems_rest_angular??label=pro-ems_rest_angular&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
 
 ---
 
