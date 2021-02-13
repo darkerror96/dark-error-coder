@@ -40,6 +40,6 @@
     <img src="https://img.shields.io/github/followers/darkerror96?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="https://github.com/darkerror96?tab=stars">
-    <img src="https://img.shields.io/github/stars/darkerror96?style=for-the-badge" alt="GitHub badge" />
+    <img src="https://img.shields.io/github/stars/darkerror96??label=Stars&logo=GitHubstyle=for-the-badge" alt="GitHub badge" />
   </a>
 </p>
