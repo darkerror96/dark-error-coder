@@ -2,7 +2,10 @@
 
 #### 🤔 Who Am I?
 
-- 🏫 I am a Pro-Junior Software Developer (Full-time) and a Part-time Student pursuing Master’s degree in CS from the Stevens Institute of Technology <a href="https://www.stevens.edu"><img src="http://www.stevens.edu/news/newspoints/brand-logos/Stevens-Apparel-Color-R.png" width="20" height="20"></a>
+- 🏫 I am a Pro-Junior Software Developer (Full-time) and a Part-time Student pursuing Master’s degree in CS from the Stevens Institute of Technology 
+  <a href="https://www.stevens.edu">
+    <img src="http://www.stevens.edu/news/newspoints/brand-logos/Stevens-Apparel-Color-R.png" width="20" height="20">
+  </a>
 - ⚡️ My expertise primarily revolves around Java, Python, Microservices, Rest-APIs and much more.
 - 📭 Let's get Linked In : <a href="https://www.linkedin.com/in/patel-rut/"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="20" height="20"></a>
 - 🥷 I also like to practice once a while on : <a href="https://www.hackerrank.com/rutpatel"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="20" height="20"></a>
@@ -28,12 +31,19 @@
 <img src="https://github-profile-trophy.vercel.app/?username=darkerror96&theme=onedark&column=3&margin-w=15&margin-h=15">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=darkerror96&theme=tokyonight)
-
-![Siddhant's github stats](https://github-readme-stats.vercel.app/api?username=darkerror96&show_icons=true&hide_border=true&theme=onedark) 
+![Rut's github stats](https://github-readme-stats.vercel.app/api?username=darkerror96&show_icons=true&hide_border=true&theme=onedark) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkerror96&layout=compact&theme=onedark)
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=darkerror96)  
 
+---
+
+#### Repo Stats : 
+
+<a href="https://github.com/darkerror96?tab=followers">
+  <img src="https://img.shields.io/tokei/lines/github/darkerror96/pro-ems_rest_angular?style=for-the-badge" alt="GitHub badge" />
+</a>
+
+---
 
 <p align="center">
   <a href="https://github.com/darkerror96?tab=followers">
