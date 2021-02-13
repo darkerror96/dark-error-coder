@@ -2,7 +2,7 @@
 
 
 <a href="https://www.linkedin.com/in/patel-rut/"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="30" height="30"></a>
-
+<a href="https://www.hackerrank.com/rutpatel"><img src="https://amritchhetri.files.wordpress.com/2016/10/logo_wordmark-vertical-800x645.png?w=800" width="30" height="30"></a>
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-4124786%20Lines%20of%20code-blue)
 
