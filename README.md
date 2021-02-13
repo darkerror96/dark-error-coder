@@ -18,8 +18,6 @@
 <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">&nbsp;&nbsp;
 <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png">
 
----
-
 #### 👨🏻‍💻 Familiar With :
 
 <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">&nbsp;&nbsp;
@@ -27,7 +25,7 @@
 
 ---
 
-#### Stats : 
+#### 📌 Stats : 
 
 <img src="https://github-profile-trophy.vercel.app/?username=darkerror96&theme=onedark&column=3&margin-w=15&margin-h=15">
 
