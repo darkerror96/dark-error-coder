@@ -45,12 +45,12 @@
 
 #### Repo Stats : 
 
-- <a href="https://github.com/darkerror96/pro-ems_rest_angular">
-    <img src="https://img.shields.io/tokei/lines/github/darkerror96/pro-ems_rest_angular?color=blueviolet&label=pro-ems_rest_angular&logo=GitHub" alt="GitHub badge" />
-  </a>
-- <a href="https://github.com/darkerror96?tab=followers">
-    <img src="https://img.shields.io/tokei/lines/github/darkerror96/pro-ems_rest_angular?label=pro-ems_rest_angular&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
+<a href="https://github.com/darkerror96/pro-ems_rest_angular">
+    <img src="https://img.shields.io/tokei/lines/github/darkerror96/pro-ems_rest_angular?color=blueviolet&label=pro-ems_rest_angular&logo=github&logoColor=brightgreen&style=for-the-badge" alt="GitHub badge" />
+</a>
+<a href="https://github.com/darkerror96/pro-ems_rest_angular">
+    <img src="https://img.shields.io/tokei/lines/github/darkerror96/pro-ems_rest_angular?color=blueviolet&label=pro-ems_rest_angular&logo=github&logoColor=brightgreen&style=for-the-badge" alt="GitHub badge" />
+</a>
 
 ---
 
