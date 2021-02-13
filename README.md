@@ -1,7 +1,5 @@
 ### Hello!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-4124786%20Lines%20of%20code-blue)
-
 #### 🤔 Who Am I?
 
 - 🏫 I am a Pro-Junior Software Developer (Full-time) and a Part-time Student pursuing Master’s degree in CS from the Stevens Institute of Technology <a href="https://www.stevens.edu"><img src="http://www.stevens.edu/news/newspoints/brand-logos/Stevens-Apparel-Color-R.png" width="20" height="20"></a>
