@@ -45,41 +45,30 @@
 
 #### Repo Stats : 
 
-<a href="https://github.com/darkerror96/pro-ems_rest_angular">
+- <a href="https://github.com/darkerror96/pro-ems_rest_angular">
     <img src="https://img.shields.io/tokei/lines/github/darkerror96/pro-ems_rest_angular?color=brightgreen&label=pro-ems_rest_angular&logo=github&logoColor=informational&style=for-the-badge" alt="GitHub badge" />
 </a>
-<a href="https://github.com/darkerror96/pro-multi_database_manager">
+- <a href="https://github.com/darkerror96/pro-multi_database_manager">
     <img src="https://img.shields.io/tokei/lines/github/darkerror96/pro-multi_database_manager?color=brightgreen&label=pro-multi_database_manager&logo=github&logoColor=informational&style=for-the-badge" alt="GitHub badge" />
 </a>
-<a href="https://github.com/darkerror96/semi-ems_rest_api">
+- <a href="https://github.com/darkerror96/semi-ems_rest_api">
     <img src="https://img.shields.io/tokei/lines/github/darkerror96/semi-ems_rest_api?color=brightgreen&label=semi-ems_rest_api&logo=github&logoColor=informational&style=for-the-badge" alt="GitHub badge" />
 </a>
-<a href="https://github.com/darkerror96/pro-clash_royale_api">
+- <a href="https://github.com/darkerror96/pro-clash_royale_api">
     <img src="https://img.shields.io/tokei/lines/github/darkerror96/pro-clash_royale_api?color=brightgreen&label=pro-clash_royale_api&logo=github&logoColor=informational&style=for-the-badge" alt="GitHub badge" />
 </a>
-<a href="https://github.com/darkerror96/pro-trading_system">
+- <a href="https://github.com/darkerror96/pro-trading_system">
     <img src="https://img.shields.io/tokei/lines/github/darkerror96/pro-trading_system?color=brightgreen&label=pro-trading_system&logo=github&logoColor=informational&style=for-the-badge" alt="GitHub badge" />
 </a>
-<a href="https://github.com/darkerror96/semi-resume_builder">
+- <a href="https://github.com/darkerror96/semi-resume_builder">
     <img src="https://img.shields.io/tokei/lines/github/darkerror96/semi-resume_builder?color=brightgreen&label=semi-resume_builder&logo=github&logoColor=informational&style=for-the-badge" alt="GitHub badge" />
 </a>  
-<a href="https://github.com/darkerror96/pro-ems_web">
+- <a href="https://github.com/darkerror96/pro-ems_web">
     <img src="https://img.shields.io/tokei/lines/github/darkerror96/pro-ems_web?color=brightgreen&label=pro-ems_web&logo=github&logoColor=informational&style=for-the-badge" alt="GitHub badge" />
 </a>
-<a href="https://github.com/darkerror96/pro-doc_sharing">
+- <a href="https://github.com/darkerror96/pro-doc_sharing">
     <img src="https://img.shields.io/tokei/lines/github/darkerror96/pro-doc_sharing?color=brightgreen&label=pro-doc_sharing&logo=github&logoColor=informational&style=for-the-badge" alt="GitHub badge" />
 </a>
-<a href="https://github.com/darkerror96/amateur-uber">
+- <a href="https://github.com/darkerror96/amateur-uber">
     <img src="https://img.shields.io/tokei/lines/github/darkerror96/amateur-uber?color=brightgreen&label=amateur-uber&logo=github&logoColor=informational&style=for-the-badge" alt="GitHub badge" />
 </a>
-
----
-
-<p align="center">
-  <a href="https://github.com/darkerror96?tab=followers">
-    <img src="https://img.shields.io/github/followers/darkerror96?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
-  <a href="https://github.com/darkerror96?tab=stars">
-    <img src="https://img.shields.io/github/stars/darkerror96??label=Stars&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
-</p>
