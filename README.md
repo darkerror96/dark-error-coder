@@ -1,15 +1,14 @@
 ### Hello!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-
-<a href="https://www.linkedin.com/in/patel-rut/"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="30" height="30"></a>
-<a href="https://www.hackerrank.com/rutpatel"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="30" height="30"></a>
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-4124786%20Lines%20of%20code-blue)
 
 #### 🤔 Who Am I!?
 
 - 🏫 I am a Junior pursuing a Master’s degree in Computer Sciences from the Stevens Institue of Technology, NJ (USA) [2022].
 - ⚡️ My expertise primarily revolves around Java, Python, Microservices, APIs.
+
+<a href="https://www.linkedin.com/in/patel-rut/"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="30" height="30"></a>
+<a href="https://www.hackerrank.com/rutpatel"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="30" height="30"></a>
 
 #### 👨🏻‍💻 Mostly Used Languages, Frameworks :
 
