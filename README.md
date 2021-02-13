@@ -4,11 +4,9 @@
 
 #### 🤔 Who Am I!?
 
-- 🏫 I am a Junior pursuing a Master’s degree in Computer Sciences from the Stevens Institue of Technology, NJ (USA) [2022].
+- 🏫 I am a Junior pursuing a Master’s degree in CS from the Stevens Institute of Technology <a href="https://www.stevens.edu"><img src="http://www.stevens.edu/news/newspoints/brand-logos/Stevens-Apparel-Color-R.png" width="30" height="30"></a>, NJ (USA) [2022].
 - ⚡️ My expertise primarily revolves around Java, Python, Microservices, APIs.
-
-<a href="https://www.linkedin.com/in/patel-rut/"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="30" height="30"></a>
-<a href="https://www.hackerrank.com/rutpatel"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="30" height="30"></a>
+- Connect with me on <a href="https://www.linkedin.com/in/patel-rut/"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="30" height="30"></a> | <a href="https://www.hackerrank.com/rutpatel"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="30" height="30"></a>
 
 #### 👨🏻‍💻 Mostly Used Languages, Frameworks :
 
@@ -19,7 +17,6 @@
 
 
 #### 👨🏻‍💻 Familiar With :
-
 
 <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">&nbsp;&nbsp;
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">&nbsp;&nbsp;
